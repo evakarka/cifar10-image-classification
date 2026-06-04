@@ -111,9 +111,10 @@ Transfer Learning with MobileNetV2 significantly improved performance compared t
 cifar10-image-classification/
 │
 ├── images/
-│   ├── training_curves.png
-│   ├── confusion_matrix.png
-│   └── predictions.png
+│   ├── cifar10_training_accuracy.png
+│   ├── cifar10_training_loss.png
+│   ├── cifar10_confusion_matrix.png
+│   └── cifar10_sample_prediction.png
 │
 ├── cifar10-image-classification.ipynb
 └── README.md
