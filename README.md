@@ -67,20 +67,23 @@ Classes:
 Transfer Learning with MobileNetV2 significantly improved performance compared to the baseline CNN model.
 
 ---
-
 ## 🖼️ Visual Results
 
-### Training Curves
+### Training Accuracy
 
-![Training Curves](images/training_curves.png)
+![Training Accuracy](images/cifar10_training_accuracy.png)
+
+### Training Loss
+
+![Training Loss](images/cifar10_training_loss.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/cifar10_confusion_matrix.png)
 
-### Sample Predictions
+### Sample Prediction
 
-![Predictions](images/predictions.png)
+![Sample Prediction](images/cifar10_sample_prediction.png)
 
 ---
 
