@@ -129,5 +129,7 @@ cifar10-image-classification/
 
 Evangelia Karka
 
+Evangelia Karka
+
 MSc Artificial Intelligence
-University of East London
+Metropolitan College (University of East London)
